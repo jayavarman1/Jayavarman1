@@ -37,7 +37,3 @@ I'm a Computer Science Engineer fueled by a deep passion for Data Science and tr
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
----
-
-Feel free to explore my repositories, connect with me, or reach out if you're interested in collaborating on data-driven projects!
-
