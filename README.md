@@ -11,7 +11,7 @@ I'm a Computer Science Engineer fueled by a deep passion for Data Science and tr
 - 👯 **Looking to collaborate on**: Data science projects, open-source contributions, and innovative data visualization  
 - 🤔 **Looking for help with**: Optimizing machine learning models and deploying them at scale  
 - 💬 **Ask me about**: Data cleaning, exploratory data analysis, and machine learning  
-- 📫 **How to reach me**: [Email](mailto:jayavarman1207@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaya-varman-400627246/)  
+- 📫 **How to reach me**: [Email](mailto:jayavarman1207@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jayavarman-r-400627246/)  
 
 ---
 
