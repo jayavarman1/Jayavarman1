@@ -1,6 +1,5 @@
 ## Hi there 👋I'm Jayavarman
 
-# 👋 Welcome to My GitHub Profile!
 
 I'm a Computer Science Engineer fueled by a deep passion for Data Science and transforming raw data into meaningful insights. I thrive on building end-to-end data solutions—from cleaning and exploration to creating and deploying powerful machine learning models. Whether it's solving complex problems or visualizing trends, I'm always excited to let the data tell its story.
 
